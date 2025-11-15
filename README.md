@@ -47,7 +47,7 @@ CMakeLists.txt
 ## 🛠 Requirements
 
 ### Software
-- ESP-IDF **5.1 / 5.2 / 5.5**
+- ESP-IDF **5.5.1**
 - EEZ Studio (UI design tool)
 - LVGL 8.x component
 - LovyanGFX (display + touch driver)
@@ -64,15 +64,19 @@ CMakeLists.txt
 idf.py set-target esp32s3
 idf.py build
 idf.py flash monitor
+```
 
+---
 
 ## 📄 License
-
 MIT License
+
+---
 
 ## ❤️ Credits
 
-LVGL : https://lvgl.io
-EEZ Studio : UI designer
-LovyanGFX : Display/touch driver
-WT32-SC01 Community
+- LVGL : https://lvgl.io
+- EEZ Studio : UI designer
+- LovyanGFX : Display/touch driver
+- WT32-SC01 Community
+- Special thanks to Sukesh(https://github.com/sukesh-ak/LVGL8-WT32-SC01-Arduino) for getting started codes
