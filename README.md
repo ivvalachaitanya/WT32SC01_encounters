@@ -28,18 +28,23 @@ This project includes:
 ---
 
 ## 📁 Project Structure
-/main
-main.cpp
-actions.c
-actions.h
-ui/
-ui.c
-ui.h
-screens.c
-ui_events.c
-styles.c
-images.c
-CMakeLists.txt
+LVGL8-WT32-SC01-IDF-EZZ
+├── CMakeLists.txt
+├── LICENSE.md
+├── README.md
+├── SampleUI.jpg
+├── components
+│   ├── LovyanGFX
+│   └── lvgl
+├── dependencies.lock
+├── device.png
+├── main
+│   ├── CMakeLists.txt
+│   ├── conf_WT32SCO1.h
+│   ├── lv_conf.h
+│   ├── main.cpp
+│   └── ui
+└── sdkconfig
 
 
 ---
