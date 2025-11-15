@@ -28,24 +28,25 @@ This project includes:
 ---
 
 ## 📁 Project Structure
+```
 LVGL8-WT32-SC01-IDF-EZZ
-├── CMakeLists.txt
-├── LICENSE.md
-├── README.md
-├── SampleUI.jpg
-├── components
-│   ├── LovyanGFX
-│   └── lvgl
-├── dependencies.lock
-├── device.png
-├── main
-│   ├── CMakeLists.txt
-│   ├── conf_WT32SCO1.h
-│   ├── lv_conf.h
-│   ├── main.cpp
-│   └── ui
-└── sdkconfig
-
+|-- CMakeLists.txt
+|-- LICENSE.md
+|-- README.md
+|-- SampleUI.jpg
+|-- components
+|   |-- LovyanGFX
+|   |-- lvgl
+|-- dependencies.lock
+|-- device.png
+|-- main
+|   |-- CMakeLists.txt
+|   |-- conf_WT32SCO1.h
+|   |-- lv_conf.h
+|   |-- main.cpp
+|   |-- ui
+|-- sdkconfig
+```
 
 ---
 
