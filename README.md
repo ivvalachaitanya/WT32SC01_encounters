@@ -34,9 +34,13 @@ LVGL8-WT32-SC01-IDF-EZZ
 |-- LICENSE.md
 |-- README.md
 |-- SampleUI.jpg
+|-- Test_EEZProject
+|   |-- Test.eez-project
+|   |-- Test.eez-project-ui-state
+|   `-- src
 |-- components
 |   |-- LovyanGFX
-|   |-- lvgl
+|   `-- lvgl
 |-- dependencies.lock
 |-- device.png
 |-- main
@@ -44,8 +48,9 @@ LVGL8-WT32-SC01-IDF-EZZ
 |   |-- conf_WT32SCO1.h
 |   |-- lv_conf.h
 |   |-- main.cpp
-|   |-- ui
-|-- sdkconfig
+|   `-- ui
+`-- sdkconfig
+
 ```
 
 ---
