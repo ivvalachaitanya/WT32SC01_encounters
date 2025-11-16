@@ -1,8 +1,4 @@
-# Project moved => [ESP32-TUX](https://github.com/sukesh-ak/ESP32-TUX)
-
-## Check the updated version with lots of features, including support for the new version WT32-SC01 Plus
-https://github.com/sukesh-ak/ESP32-TUX
-
+# Device
 
 ![device](device.png)
 
@@ -94,3 +90,11 @@ extern "C"
 
 ## 3D Printable enclosure (STL)  
 [3D enclosure on SketchFab website](https://sketchfab.com/3d-models/wt32-sc01-case-cfec05638de540b0acccff2091508500)
+
+# Inspiration
+---
+Sukesh project files: - Helped me to set up everything correctly
+## Sukesh original project => [ESP32-TUX](https://github.com/sukesh-ak/ESP32-TUX)
+Check the updated version, Sukesh repo including support for the new version WT32-SC01 Plus
+https://github.com/sukesh-ak/ESP32-TUX
+---

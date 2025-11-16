@@ -64,7 +64,7 @@ LVGL8-WT32-SC01-IDF-EZZ
 - LovyanGFX (display + touch driver)
 
 ### Hardware
-- WT32-SC01 (ESP32-S3 + ILI9488)
+- WT32-SC01 (ESP32-S3 + ST7796(TFT) + FT6336U(Touch))
 - USB-C cable
 
 ---
