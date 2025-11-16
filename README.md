@@ -91,4 +91,4 @@ MIT License
 - EEZ Studio : UI designer
 - LovyanGFX : Display/touch driver
 - WT32-SC01 Community
-- Special thanks to Sukesh(https://github.com/sukesh-ak/LVGL8-WT32-SC01-Arduino) for getting started codes
+- Special thanks to Sukesh(https://github.com/sukesh-ak/LVGL8-WT32-SC01-IDF) for getting started codes
