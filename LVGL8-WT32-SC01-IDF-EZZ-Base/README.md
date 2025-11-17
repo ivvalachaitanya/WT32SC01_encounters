@@ -1,3 +1,46 @@
+**Simple Base code to setup WT32-SC01 with EEZ studio**
+---
+## ⭐ Features
+
+- WT32-SC01 (480×320) TFT display supported
+- LVGL 8.x rendering
+- EEZ Studio → LVGL code generation pipeline
+- Multiple button events:
+  - `PRESSED`
+  - `PRESSING`
+  - `SHORT_CLICKED`
+  - `LONG_PRESSED`
+  - `CLICKED`
+  - `RELEASED`
+- Simple `actions.c` file for your logic
+
+---
+
+## 📁 Project Structure
+```
+LVGL8-WT32-SC01-IDF-EZZ
+|-- CMakeLists.txt
+|-- LICENSE.md
+|-- README.md
+|-- SampleUI.jpg
+|-- Test_EEZProject
+|   |-- Test.eez-project
+|   |-- Test.eez-project-ui-state
+|   `-- src
+|-- components
+|   |-- LovyanGFX
+|   `-- lvgl
+|-- dependencies.lock
+|-- device.png
+|-- main
+|   |-- CMakeLists.txt
+|   |-- conf_WT32SCO1.h
+|   |-- lv_conf.h
+|   |-- main.cpp
+|   `-- ui
+`-- sdkconfig
+
+```
 # Device
 
 ![device](device.png)
