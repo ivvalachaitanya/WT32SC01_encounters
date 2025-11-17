@@ -10,7 +10,12 @@ This project includes:
 - Clean CMake integration
 
 ---
+# **Projects**
+- [Base code (Buttons + LogPrint)](https://github.com/ivvalachaitanya/WT32-SC01-LVGL8-ESP32-IDF-EEZ/tree/main/LVGL8-WT32-SC01-IDF-EZZ-Base)
+- [Example with charts + Buttons + Bar + LogPrint](https://github.com/ivvalachaitanya/WT32-SC01-LVGL8-ESP32-IDF-EEZ/tree/main/LVGL8-WT32-SC01-IDF-EZZ-Charts)
 
+
+---
 ## ⭐ Features
 
 - WT32-SC01 (480×320) TFT display supported
